@@ -9,7 +9,6 @@ The model was also requested to predict dog breed from images of my own dog, whi
 
 Tensorflow and keras Python libraries
 Run on:
-512 GB RAM Linux Ubuntu
-Google Colab with T GPU and high RAM
-
-Written in VSCode.
+* 512 GB RAM Linux Ubuntu
+* Google Colab with T GPU and high RAM
+* Written in VSCode.
